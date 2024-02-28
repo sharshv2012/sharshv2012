@@ -1,8 +1,8 @@
-<p align=”center”>
+
 
 <img width=”200" height=”200" src="https://github.com/sharshv2012/sharshv2012/assets/114305291/bf3b7a7d-6062-4244-b75e-3d1df4012272" alt=”my banner”>
 
-</p>
+
 
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/sharshv2012/sharshv2012/assets/114305291/05431904-99ca-47bd-858c-1fe974cc9aea" alt="my banner"></a>
