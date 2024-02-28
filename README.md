@@ -1,16 +1,12 @@
 
-
-<img width=”200" height=”200" src="https://github.com/sharshv2012/sharshv2012/assets/114305291/bf3b7a7d-6062-4244-b75e-3d1df4012272" alt=”my banner”>
-
-
-
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/sharshv2012/sharshv2012/assets/114305291/05431904-99ca-47bd-858c-1fe974cc9aea" alt="my banner"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/sharshv2012/sharshv2012/assets/114305291/eeb8ae42-75bd-40dd-8e35-4877f805e611" alt="my banner"></a>
 </p>
 
 <h1 align="center">
 Hi there, I'm <a href="https://twitter.com/sharshv2002" target="_blank" rel="noreferrer">Harsh</a> 👋
 </h1>
+
 
 <h2>
   <ul>
