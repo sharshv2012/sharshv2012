@@ -11,7 +11,7 @@ Hi there, I'm <a href="https://twitter.com/sharshv2002" target="_blank" rel="nor
 <h2>
   <ul>
     <li>🔭 I'm currently building apps using Flutter and Kotlin.</li>
-    <li>💙 I’m currently working on an Android App 'TaskMe'.</li>
+    <li>💙 I’m currently working on Project Gauri.</li>
     <li>👯 I’m looking to collaborate on OpenSource Projects </li>
     <li>Ask me about ... Anything</li>
     <li>📫 Reach me at <a href="sharshvardhan759@gmail.com" target="_blank" rel="noreferrer">sharshvardhan759@gmail.com</a></li>
